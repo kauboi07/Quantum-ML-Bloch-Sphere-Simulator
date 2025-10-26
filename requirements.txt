@@ -1,0 +1,7 @@
+numpy
+qiskit
+matplotlib
+imageio
+joblib
+scikit-learn
+IPython
