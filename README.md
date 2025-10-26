@@ -4,12 +4,13 @@
 **A Quantum Machine Learning project to predict qubit states and visualize them on the Bloch Sphere.**
 
 ---
-'''
-## File Navigation
--Bloch sphere ML.py --> this is the ML code 
--Final Bloch Sphere ML Code.py --> this is the full code
--bloch_predictor.pkl --> .pkl file of the ML code
-'''
+# File Navigation
+
+A brief guide to the key files in this repository:
+
+* **`Bloch_sphere_ML.py`**: This file contains the **Machine Learning (ML) code** for the Bloch sphere project.
+* **`Final_Bloch_Sphere_ML_Code.py`**: This is the **full, complete code** for the Bloch sphere ML project.
+* **`bloch_predictor.pkl`**: This is the **`.pkl` file** (a Python pickle file) of the trained Machine Learning model.
 ---
 ## Description
 This project combines **Quantum Computing** and **Machine Learning** to simulate qubit state evolution and predict the Bloch vector using an MLP model. Users can input sequences of quantum gates, and the program shows:
