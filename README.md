@@ -13,7 +13,7 @@ This project combines **Quantum Computing** and **Machine Learning** to simulate
 - Probabilities of |0> and |1>
 - Animated GIF of the Bloch Sphere evolution
 
-I made this project as my freshman year physics project ; ChatGPT played a huge role in helping me make this project , feel free to contribute to make this code better!
+-I made this project as my freshman year physics project ; ChatGPT played a huge role in helping me make this project , feel free to contribute to make this code better!
 ---
 
 ## Features
